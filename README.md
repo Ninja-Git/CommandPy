@@ -1,2 +1,2 @@
 # CommandPy
-My-Open-Source-Projects
+a terminal with python abilities
